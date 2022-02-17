@@ -1,0 +1,80 @@
+.header {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  min-height: 70px;
+  width: 100%;
+  background-color: #091f40;
+  padding-top: 10px;
+    padding-bottom: 10px;
+}
+.superior{
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  width: 100%;
+}
+.middle{
+  width: 100%;
+}
+.logoContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  font-size: 3rem;
+}
+.btnLogout {
+  padding: 5px 5px;
+  margin-right: 10px;
+  width: 70px;
+  background-color: #680404;
+  border: 2px solid #680404;
+  color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 5px 5px rgba(6, 8, 104, 0.05);
+}
+.btnLogout:hover {
+  background-color: #ffffff;
+  border: 2px solid #680404;
+  color: #680404;
+  cursor: pointer;
+}
+.title {
+  border: 2px solid #680404;
+  color: #680404;
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 5px 5px rgba(6, 8, 104, 0.05);
+  padding: 10px;
+}
+
+.routes,
+.routesPostulants {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+
+
+.routes > li > a {
+  margin: 15px 15px 15px 15px;
+  background-color: #1c2e4d;
+  color: white;
+  line-height: 30px;
+  font-size: 1rem;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+
+.routes > li > a:hover {
+  box-shadow: 5px 5px rgba(10, 9, 9, 0.03);
+  background-color: #680404;
+  color: #fff;
+}
+ul .routes {
+  padding: 0;
+}
