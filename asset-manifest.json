@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ensolvers-todo-client/static/css/main.4e47cbf6.css",
+    "main.js": "/ensolvers-todo-client/static/js/main.8ec43198.js",
+    "static/css/328.1e48e7e6.chunk.css": "/ensolvers-todo-client/static/css/328.1e48e7e6.chunk.css",
+    "static/js/328.bf14e34e.chunk.js": "/ensolvers-todo-client/static/js/328.bf14e34e.chunk.js",
+    "static/css/480.f0ef1f4b.chunk.css": "/ensolvers-todo-client/static/css/480.f0ef1f4b.chunk.css",
+    "static/js/480.e0d4488b.chunk.js": "/ensolvers-todo-client/static/js/480.e0d4488b.chunk.js",
+    "static/js/432.efc484c4.chunk.js": "/ensolvers-todo-client/static/js/432.efc484c4.chunk.js",
+    "index.html": "/ensolvers-todo-client/index.html",
+    "main.4e47cbf6.css.map": "/ensolvers-todo-client/static/css/main.4e47cbf6.css.map",
+    "main.8ec43198.js.map": "/ensolvers-todo-client/static/js/main.8ec43198.js.map",
+    "328.1e48e7e6.chunk.css.map": "/ensolvers-todo-client/static/css/328.1e48e7e6.chunk.css.map",
+    "328.bf14e34e.chunk.js.map": "/ensolvers-todo-client/static/js/328.bf14e34e.chunk.js.map",
+    "480.f0ef1f4b.chunk.css.map": "/ensolvers-todo-client/static/css/480.f0ef1f4b.chunk.css.map",
+    "480.e0d4488b.chunk.js.map": "/ensolvers-todo-client/static/js/480.e0d4488b.chunk.js.map",
+    "432.efc484c4.chunk.js.map": "/ensolvers-todo-client/static/js/432.efc484c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e47cbf6.css",
+    "static/js/main.8ec43198.js"
+  ]
+}
